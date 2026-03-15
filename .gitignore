@@ -1,0 +1,28 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ideiglenes fájlok (Temporary files)
+*.bak
+*.tmp
+*.swp
+*~
+*.log
+
+# MS Office ideiglenes / zárolási fájlok (Word, Excel, PowerPoint)
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+~$*.vsd*
+~$*.dotm
+~$*.dotx
+
+# Fordított és futtatható fájlokhoz (ha forráskódból generálod őket)
+# /installer/*.exe  # Ezt kikommenteztem, hátha a telepítőket is verziókövetni akarod

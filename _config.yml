@@ -1,0 +1,36 @@
+# Site settings
+title: TextBalance Dokumentáció
+description: Word makró strukturált dokumentumok írásához
+url: "https://textbalance.github.io"
+
+# Theme
+remote_theme: just-the-docs/just-the-docs
+
+# Color scheme
+color_scheme: light # A Just The Docs alapvetően 'light' vagy 'dark' témával jön, egyedi JS kellhet az élő váltáshoz. (Élő váltás támogatása JTD legújabb verzióiban: `color_scheme: auto` vagy egyéni gombbal) 
+
+# Search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+
+# Navigation
+nav_sort: case_insensitive
+
+# Aux links (jobb felső sarok)
+aux_links:
+  "TextBalance GitHub":
+    - "https://github.com/textbalance/"
+
+# Footer
+footer_content: "TextBalance © 2026 | Dokumentáció CC BY 4.0 licenc alatt"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Vissza a tetejére"
+
+# Logo (opcionális)
+logo: "/assets/images/logo.png"
