@@ -34,3 +34,5 @@ back_to_top_text: "Vissza a tetejére"
 
 # Logo (opcionális)
 logo: "/assets/images/logo.png"
+
+favicon_ico: "/assets/images/TextBalanceLogo.ico"
