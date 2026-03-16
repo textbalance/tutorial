@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-# TextBalance Dokumentáció
+# TextBalance
 
 ## Mi az a TextBalance?
 
